@@ -359,7 +359,7 @@ public class mainmenu extends javax.swing.JFrame {
 
     private void btPrintActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btPrintActionPerformed
         // TODO add your handling code here:
-        MessageFormat header = new MessageFormat("Struk Amanda Store");
+        MessageFormat header = new MessageFormat("Struk Belanja Alfara Buku");
         MessageFormat footer = new MessageFormat("Page (0,number,integer) ");
         try{
             tbData.print(JTable.PrintMode.FIT_WIDTH,header,footer,true,null,true,null);
