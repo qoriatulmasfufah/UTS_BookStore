@@ -33,3 +33,9 @@
   ![10.jpg](https://s22.postimg.org/5ff3r9e75/image.png)<br><br>
   Berikut tampilan apabila semua data yang telah ada diprint(cetak) di pdf
   ![14.jpg](https://s14.postimg.org/hapochsr5/image.png)
+## D. Catatan
+   Pada program ini akan membantu karyawan dalam memberikan diskon kepada pelanggannya. Karena disaat pelanggan membeli product lebih dari Rp.100.000,00 ia berhak untuk mendapat diskon sebesar 10%.<br>
+Lihat pada gambar dibawah, perhatikan data row ke-2
+![15.jpg](https://s2.postimg.org/5tabs7sex/image.png)
+
+  
