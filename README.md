@@ -36,6 +36,6 @@
 ## D. Catatan
    Pada program ini akan membantu karyawan dalam memberikan diskon kepada pelanggannya. Karena disaat pelanggan membeli product lebih dari Rp.100.000,00 ia berhak untuk mendapat diskon sebesar 10%.<br>
 Lihat pada gambar dibawah, perhatikan data row ke-2
-![15.jpg](https://s2.postimg.org/5tabs7sex/image.png)
+![16.jpg](https://s27.postimg.org/hmkynjmfn/image.png)
 
   
